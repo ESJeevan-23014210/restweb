@@ -178,8 +178,8 @@ Publish the website in the given URL.
 </html>
 ```
 
-## OUTPUT
-![Uploading Screenshot 2024-11-13 221232.png…]()
+## OUTPUT:
+![Screenshot 2024-11-13 221232](https://github.com/user-attachments/assets/2f18c4d1-11a3-4969-98b0-b1c79c5bf826)
 
 
 ## RESULT:
