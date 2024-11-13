@@ -44,7 +44,7 @@ Publish the website in the given URL.
             --text-color: #54074f;
         }
         
-        /* General Styling */
+        
         body {
             margin: 0;
             font-family: Arial, sans-serif;
@@ -87,16 +87,16 @@ Publish the website in the given URL.
             text-align: center;
         }
 
-        /* Menu Page Styling */
+
         #menu {
             display: flex;
-            flex-wrap: nowrap; /* Ensure items stay in one row */
+            flex-wrap: nowrap; 
             gap: 20px;
             justify-content: center;
         }
 
         .menu-item {
-            flex: 1 1 22%; /* Adjusts items to fit four in a row */
+            flex: 1 1 22%;
             max-width: 22%;
             background-color: #FFF;
             padding: 10px;
@@ -110,7 +110,7 @@ Publish the website in the given URL.
             object-fit: cover;
         }
 
-        /* Contact Page Styling */
+        
         #contact-info p {
             text-align: center;
         }
